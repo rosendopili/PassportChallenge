@@ -6,13 +6,15 @@ Submit your entry here once you're done with all the activities: https://hackp.a
 
 If you completed the challenge correctly, we will email you a form to claim your prize. Email us at info@techtogether.io with any questions. 
 
-:arrow_forward:  You may only complete this challenge once. If your submission is incorrect for any reason, we will email you.
+You may only complete this challenge once. If your submission is incorrect for any reason, we will email you.
 
 ***
 
-:earth_asia: :round_pushpin: Stop 1: Sign up for Azure for Students!
+### Stop 1: Sign up for Azure for Students! 
+
 Navigate to the link above and sign up for Azure for Students. Students, get Azure for free courtesy of Microsoft Azure. Full-time college students are eligible for a free Azure account with $100 in credits.
-<br>:video_camera: How-To Tutorial: https://youtu.be/1blgs6KeA_A
+
+<br>How-To Tutorial: <a href="https://youtu.be/1blgs6KeA_A">https://youtu.be/1blgs6KeA_A</a>
 <br>:link: Sign Up Link: https://hackp.ac/MSFT-Stop1
 <br>:camera: Take a photo of your dashboard once you've completed this step.
 
