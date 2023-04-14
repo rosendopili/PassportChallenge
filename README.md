@@ -1,5 +1,3 @@
-theme: minima
-
 # Passport Challenge
 
 Are you ready to travel around the Microsoft universe? Complete the following three (3) activities to receive a TechTogether sticker pack and digital certificate! 
