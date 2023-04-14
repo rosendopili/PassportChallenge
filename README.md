@@ -1,6 +1,4 @@
-markdown: kramdown
 theme: minima
-
 
 # Passport Challenge
 
