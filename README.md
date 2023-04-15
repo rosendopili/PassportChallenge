@@ -1,6 +1,6 @@
 # Passport Challenge
 
-Are you ready to travel around the Microsoft universe? Complete the following three (3) activities to receive a TechTogether sticker pack and digital certificate! 
+Are you ready to travel around the Microsoft universe? Complete the following three (3) activities to receive a digital certificate! 
 
 Submit your entry here once you're done with all the activities: <a href="https://hackp.ac/microsoft-challenge-submit">https://hackp.ac/microsoft-challenge-submit</a>
 
@@ -19,7 +19,7 @@ Navigate to the link above and sign up for Azure for Students. Students, get Azu
 ### Stop 2: Create a GitHub repository!
 Navigate to GitHub and create a GitHub Repository.
 * How-To Tutorial: <a href="https://youtu.be/mK6Uo2qxUUM">https://youtu.be/mK6Uo2qxUUM</a>
-* Navigate to GitHub <a href="https://hackp.ac/MSFT-Stop2">https://hackp.ac/MSFT-Stop2</a>
+* Navigate to GitHub: <a href="https://hackp.ac/MSFT-Stop2">https://hackp.ac/MSFT-Stop2</a>
 * Save the link to your repo once you've completed this step. 
 
 ### Stop 3: Deploy a Service to Azure! 
