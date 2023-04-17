@@ -11,7 +11,7 @@ You may only complete this challenge once. If your submission is incorrect for a
 ***
 
 ### Stop 1: Sign up for Azure for Students! 
-Navigate to the link above and sign up for Azure for Students. Students, get Azure for free courtesy of Microsoft Azure. Full-time college students are eligible for a free Azure account with $100 in credits.
+Navigate to the link below and sign up for Azure for Students. Students, get Azure for free courtesy of Microsoft Azure. Full-time college students are eligible for a free Azure account with $100 in credits.
 * How-To Tutorial: <a href="https://youtu.be/1blgs6KeA_A">https://youtu.be/1blgs6KeA_A</a>
 * Sign Up Link: <a href="https://hackp.ac/MSFT-Stop1">https://hackp.ac/MSFT-Stop1</a>
 * Take a photo of your dashboard once you've completed this step.
